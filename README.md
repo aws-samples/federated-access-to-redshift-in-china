@@ -8,7 +8,7 @@ Due to the differences in the implementation of [Amazon Web Services in China](h
 This post introduces a step-by-step procedure to set up federated access to Amazon Redshift in China Regions. It pinpoints the key differences you should pay attention to and provides a troubleshooting guide for common errors.
 
 ## AWS Blog
-A post is published in the Big Data channel of AWS Blog to introduce the solution in detail.
+A post is [published in the AWS Big Data Blog channel](https://aws.amazon.com/blogs/big-data/federated-access-to-amazon-redshift-clusters-in-aws-china-regions-with-active-directory-federation-services/) to introduce the solution in detail.
 
 ## Deployment and Cleanup
 Save your FederationMetadata.xml file at `/tmp/FederationMetadata.xml`.
